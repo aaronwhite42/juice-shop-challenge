@@ -1,0 +1,6 @@
+resource_group_name = "juice-shop-challenge"
+
+
+teams = {
+    "Developer Advocacy" : "devadv"
+}
